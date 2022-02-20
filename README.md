@@ -1,2 +1,2 @@
 # yatube
-Социальная сеть для авторов дневников или как получится на Django.
+Django experience (on pause).
